@@ -18,6 +18,7 @@ A desktop app to download YouTube subtitles. Built with Python and Qt.
 - Lightweight, fast, and easy-to-use.
 
 ## Installation
+https://github.com/itsmadson/Youtube-Subtitile-Downloader/releases
 
 ### Prerequisites
 
