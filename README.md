@@ -7,10 +7,13 @@
 ## Overview
 
 A desktop app to download YouTube subtitles. Built with Python and Qt.
+![image](https://github.com/user-attachments/assets/d7f9570d-6978-42c7-b0d4-fc6442833393)
+
 
 ## Features
 
-- Download subtitles in multiple languages.
+- Download subtitles in multiple languages (support auto generated sub)
+- Download sub with Timestamps 0.15 => 2.14
 - Save as `.srt` or `.txt`.
 - Lightweight, fast, and easy-to-use.
 
